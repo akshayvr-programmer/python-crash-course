@@ -1,6 +1,10 @@
 # Python-crash-course
-It is a crash course on python. There is everything you need to know to get started with python.
+It is a crash course on python. There is everything you need to know to get started  programming with python.
 
+# Pre Requisites
+1. You'll need to install python. You can do that from going to: https://www.python.org/downloads/
+2. You can also setup an IDE for the course. If you want to modify the code and combine a few things. Although I have given some empty blocks of code where you can try writing it by yourself.
+3. You can install pycharm IDE from https://www.jetbrains.com/pycharm/download/#section=windows
 # Introduction:
 
 Hi and welcome to my new Python Crash Course! In this course you will learn everything that you need to know to start programming in python. The Format of the entire course is in a google colaboratory notebook. 
